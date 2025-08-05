@@ -1,8 +1,8 @@
 # Build C Projects Like a Pro: A Guide to Idiomatic Makefiles
 
-[![Build Status](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=build)](https://github.com/MedUnes/c-build/actions)
-[![Test Status](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=test)](https://github.com/MedUnes/c-build/actions)
-[![Test Status](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=release)](https://github.com/MedUnes/c-build/actions)
+[![Build](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=build)](https://github.com/MedUnes/c-build/actions)
+[![Test](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=test)](https://github.com/MedUnes/c-build/actions)
+[![Release](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=release)](https://github.com/MedUnes/c-build/actions)
 
 - If you've ever worked with C, you've likely encountered the rite of passage that is the `Makefile`.
 
