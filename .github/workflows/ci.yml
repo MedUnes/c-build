@@ -42,12 +42,13 @@ jobs:
           name: build-artifacts
           path: .
 
-      - name: Make scripts executable
-        run: chmod +x tests/run.sh
+      - name: Make files executable
+        run: |
+          chmod +x tests/run.sh
+          chmod +x tests/test_runner
 
       - name: Run tests
         run: ./tests/run.sh
-
   release:
     needs: test
     if: startsWith(github.ref, 'refs/tags/v')
