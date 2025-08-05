@@ -1,7 +1,8 @@
 # Build C Projects Like a Pro: A Guide to Idiomatic Makefiles
-[![Build](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=Build)](https://github.com/MedUnes/c-build/actions/workflows/ci.yml)
-[![Test](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=Test)](https://github.com/MedUnes/c-build/actions/workflows/ci.yml)
-[![Release](https://github.com/MedUnes/c-build/actions/workflows/ci.yml/badge.svg?branch=master&job=Release)](https://github.com/MedUnes/c-build/actions/workflows/ci.yml)
+[![Build](https://github.com/MedUnes/c-build/actions/workflows/build.yml/badge.svg)](https://github.com/MedUnes/c-build/actions/workflows/build.yml)
+[![Test](https://github.com/MedUnes/c-build/actions/workflows/test.yml/badge.svg)](https://github.com/MedUnes/c-build/actions/workflows/test.yml)
+[![Release](https://github.com/MedUnes/c-build/actions/workflows/release.yml/badge.svg)](https://github.com/MedUnes/c-build/actions/workflows/release.yml)
+
 - If you've ever worked with C, you've likely encountered the rite of passage that is the `Makefile`.
 
 - For many, it's a cryptic, frustrating file full of strange symbols and tab-sensitive lines. But what if you could not only understand it but wield it to create clean, professional, and scalable C projects?
